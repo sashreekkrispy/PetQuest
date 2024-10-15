@@ -1,10 +1,22 @@
-import { View, Text, Image, StyleSheet } from 'react-native';
+import { View, Text, Image, StyleSheet, TouchableOpacity } from 'react-native';
 import React from 'react';
 import Colors from '@/constants/Colors';
+import { useRouter } from 'expo-router';
 
 export default function PetListItem({ pet }) {
+
+
+  const router=useRouter();
+
+   
   return (
-    <View style={styles.card}>
+    <TouchableOpacity  onPress={()=>router.push({
+
+      pathname:'/(screens)/PetDetailsScreen',
+      params:pet
+
+
+    })} style={styles.card}>
       {/* Pet Image */}
       <Image source={{ uri: pet?.imageUrl }} style={styles.petImage} />
 
@@ -20,7 +32,7 @@ export default function PetListItem({ pet }) {
       <View style={styles.ageBadge}>
         <Text style={styles.ageText}>{pet?.age} YRS</Text>
       </View>
-    </View>
+    </TouchableOpacity>
   );
 }
 

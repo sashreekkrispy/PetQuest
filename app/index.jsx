@@ -17,11 +17,13 @@ export default function Index() {
   }
 
   return (
-    <View style={{ flex: 1 }}>
+    <View style={{ flex:1  }}>
       {user ? (
         <Redirect href={'/(tabs)/home'} />
       ) : (
         <Redirect href={'/Login/LoginPage'} />
+        //<Redirect href={'/(tabs)/home'} />
+        
       )}
     </View>
   );
