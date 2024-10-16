@@ -66,7 +66,7 @@ export default function Profile() {
       </TouchableOpacity>
 
       {/* Manage Post Button */}
-      <TouchableOpacity
+      {/* <TouchableOpacity
         style={{
           backgroundColor: Colors.SECONDARY,
           padding: 15,
@@ -80,7 +80,7 @@ export default function Profile() {
       >
         <Icon name="post-add" size={24} color="white" />
         <Text style={{ fontFamily: 'outfit-medium', fontSize: 18, color: 'white', marginLeft: 8 }}>Manage Posts</Text>
-      </TouchableOpacity>
+      </TouchableOpacity> */}
 
       {/* Log Out Button */}
       <TouchableOpacity
