@@ -40,7 +40,7 @@ Install all packages
 
 <p align="center">
   <span>
-    <img src="screenshots/splashscreen.png" width="300px" />
+    <img src="screenshots/10.jpg" width="300px" />
     &nbsp;&nbsp;&nbsp;
     <img src="screenshots/1.jpg" width="300px" />
   </span>
@@ -56,7 +56,7 @@ Install all packages
   <span>
     <img src="screenshots/3.jpg" width="300px" />
     &nbsp;&nbsp;&nbsp;
-    <img src="screenshots/6.png" width="300px" />
+    <img src="screenshots/6.jpg" width="300px" />
   </span>
 </p>
 
