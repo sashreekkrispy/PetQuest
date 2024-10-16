@@ -48,15 +48,15 @@ Install all packages
 
 <p align="center">
   <span>
-    <img src="screenshots/1.jpg" width="230px" />
-    <img src="screenshots/2.jpg" width="230px" />
+    <img src="screenshots/1.jpg" width="230px" /> &nbsp;&nbsp;&nbsp;
+    <img src="screenshots/2.jpg" width="230px" /> &nbsp;&nbsp;&nbsp;
   </span>
 </p>
 
 <p align="center">
   <span>
-    <img src="screenshots/2.jpg" width="230px" />
-    <img src="screenshots/4.jpg" width="200px" />
+    <img src="screenshots/2.jpg" width="230px" />  &nbsp;&nbsp;&nbsp;
+    <img src="screenshots/4.jpg" width="200px" />  &nbsp;&nbsp;&nbsp;
     &nbsp;&nbsp;&nbsp;
     
   </span>
