@@ -55,7 +55,7 @@ Install all packages
 
 <p align="center">
   <span>
-    <img src="screenshots/2.jpg" width="230px" />  &nbsp;&nbsp;&nbsp;&nbsp;
+    
     <img src="screenshots/4.jpg" width="200px" />  &nbsp;&nbsp;&nbsp;&nbsp;
     &nbsp;&nbsp;&nbsp;
     
